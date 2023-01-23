@@ -28,11 +28,8 @@ export default function Home({ githubProfileData }) {
       <Greetings />
       <Skills />
       <Proficiency />
-//       <Education />
-//       <Experience />
       <Feedbacks />
       <Projects />
-//       <GithubProfileCard prof={githubProfileData} />
     </div>
   );
 }
