@@ -2,7 +2,7 @@ import emoji from 'react-easy-emoji';
 
 export const greetings = {
   name: 'Info Loop',
-  title: "Hi all, we are agency",
+  title: "Hi all, we are Infoloop",
   description:
     'We are a group of developer who loves building scalable, performant apps. We are passionate about JavaScript, react-native, Android & IOS Application development, redux & Build app and UI components from prototypes Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Interested in Continuation of learning and Cooperation with excellent people.',
 //   resumeLink: 'https://drive.google.com/file/d/1qvuoWs9WJfY0WnOhJra5pZD-XxJVfPCl/view?usp=sharing',
