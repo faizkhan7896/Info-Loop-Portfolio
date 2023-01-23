@@ -17,22 +17,22 @@ export default function Home({ githubProfileData }) {
     <div>
       <SEO
         data={{
-          title: 'Alfaiz Khan',
-          description: 'A passionate Android & IOS Application Developer.',
-          url: 'https://bit.ly/alfaiz_dev',
+          title: 'Info Loop',
+          description: 'We are a group of developers.',
+          url: 'bit.ly/Info-Loop',
           // image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-          keywords: ['Alfaiz', 'Alfaiz Khan', '@Alfaiz_Khan789', 'Alfaiz789', 'Portfolio', 'Alfaiz Portfolio ', 'Alfaiz Khan Portfolio'],
+          keywords: ['Info-Loop', 'Loop', 'Info', 'Infosys', 'Portfolio', 'Alfaiz Portfolio ', 'Alfaiz Khan Portfolio'],
         }}
       />
       <Navigation />
       <Greetings />
       <Skills />
       <Proficiency />
-      <Education />
-      <Experience />
+//       <Education />
+//       <Experience />
       <Feedbacks />
       <Projects />
-      <GithubProfileCard prof={githubProfileData} />
+//       <GithubProfileCard prof={githubProfileData} />
     </div>
   );
 }
