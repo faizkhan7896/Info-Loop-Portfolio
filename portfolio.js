@@ -1,11 +1,11 @@
 import emoji from 'react-easy-emoji';
 
 export const greetings = {
-  name: 'Alfaiz khan',
-  title: "Hi all, I'm Alfaiz",
+  name: 'Info Loop',
+  title: "Hi all, we are agency",
   description:
-    'I am a developer who loves building scalable, performant apps. I am passionate about JavaScript, react-native, Android & IOS Application development, redux & Build app and UI components from prototypes Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Interested in Continuation of learning and Cooperation with excellent people.',
-  resumeLink: 'https://drive.google.com/file/d/1qvuoWs9WJfY0WnOhJra5pZD-XxJVfPCl/view?usp=sharing',
+    'We are a group of developer who loves building scalable, performant apps. We are passionate about JavaScript, react-native, Android & IOS Application development, redux & Build app and UI components from prototypes Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Interested in Continuation of learning and Cooperation with excellent people.',
+//   resumeLink: 'https://drive.google.com/file/d/1qvuoWs9WJfY0WnOhJra5pZD-XxJVfPCl/view?usp=sharing',
 };
 
 export const openSource = {
@@ -16,14 +16,14 @@ export const contact = {};
 
 export const socialLinks = {
   // facebook: 'https://www.facebook.com/',
-  instagram: 'https://www.instagram.com/faiz_yousaf_zai/',
-  twitter: 'https://twitter.com/Alfaiz_khan789',
-  github: 'https://github.com/faizkhan7896',
-  linkedin: 'https://www.linkedin.com/in/alfaiz-khan-94647b202/',
+//   instagram: 'https://www.instagram.com/faiz_yousaf_zai/',
+//   twitter: 'https://twitter.com/Alfaiz_khan789',
+//   github: 'https://github.com/faizkhan7896',
+//   linkedin: 'https://www.linkedin.com/in/alfaiz-khan-94647b202/',
 };
 
 export const skillsSection = {
-  title: 'What I do',
+  title: 'What We do',
   subTitle: 'CRAZY REACT-NATIVE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
@@ -89,7 +89,7 @@ export const skillsSection = {
 export const SkillBars = [
   {
     Stack: 'Figma Design (UI/UX)', //Insert stack or technology you have experience in
-    progressPercentage: '40', //Insert relative proficiency in percentage
+    progressPercentage: '80', //Insert relative proficiency in percentage
   },
   {
     Stack: 'Frontend/Design', //Insert stack or technology you have experience in
@@ -97,41 +97,34 @@ export const SkillBars = [
   },
   {
     Stack: 'React-Native', //Insert stack or technology you have experience in
-    progressPercentage: '75', //Insert relative proficiency in percentage
+    progressPercentage: '85', //Insert relative proficiency in percentage
   },
   {
     Stack: 'Backend',
-    progressPercentage: '30',
+    progressPercentage: '70',
   },
   {
     Stack: 'Programming',
     progressPercentage: '72',
   },
-  {
-    Stack: 'GitHub',
-    progressPercentage: '70',
-  },
-  {
-    Stack: 'Visual Studio',
-    progressPercentage: '85',
-  },
+  
 ];
 
 export const educationInfo = [
-  {
-    schoolName: 'ILVA Higher Secondary School',
-    subHeader: 'Complete Higher Secondary School',
-    duration: 'March 2021',
-    desc: 'Participated in the research of XXX and published 3 papers.',
-    descBullets: ['Passed Secondary school', 'Passout higher secondary school'],
-  },
-  {
-    schoolName: 'Makhanlal Chaturvedi University',
-    subHeader: 'BCA (Bachelors in Computer Application)',
-    duration: 'September 2021 - running',
-    desc: 'Participated in the research of XXX and published 3 papers.',
-    descBullets: ['Passed a first year', 'Currently running a 2nd year'],
-  },
+//   {
+//     schoolName: 'ILVA Higher Secondary School',
+//     subHeader: 'Complete Higher Secondary School',
+//     duration: 'March 2021',
+//     desc: 'Participated in the research of XXX and published 3 papers.',
+//     descBullets: ['Passed Secondary school', 'Passout higher secondary school'],
+//   },
+//   {
+//     schoolName: 'Makhanlal Chaturvedi University',
+//     subHeader: 'BCA (Bachelors in Computer Application)',
+//     duration: 'September 2021 - running',
+//     desc: 'Participated in the research of XXX and published 3 papers.',
+//     descBullets: ['Passed a first year', 'Currently running a 2nd year'],
+//   },
 ];
 
 export const experience = [
@@ -143,20 +136,20 @@ export const experience = [
   //   desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
   //   descBullets: ['Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'],
   // },
-  {
-    role: 'Senior React Native Developer',
-    company: 'Technorizen Software Solution',
-    companylogo: '/img/icons/common/Techno.jpeg',
-    date: 'Aug 2021 (Present)',
-    desc: 'Build app and UI components from prototypes and wireframes. Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Write automated tests to ensure error-free code and performance.',
-  },
-  {
-    role: 'Junior React Native Developer',
-    company: 'Avalanche Infotech Pvt Ltd',
-    companylogo: '/img/icons/common/Avlanche.jpeg',
-    date: 'Oct 2020 - Aug 2021',
-    desc: 'Worked as React-Native Junior developer to create a Apps UI.',
-  },
+//   {
+//     role: 'Senior React Native Developer',
+//     company: 'Technorizen Software Solution',
+//     companylogo: '/img/icons/common/Techno.jpeg',
+//     date: 'Aug 2021 (Present)',
+//     desc: 'Build app and UI components from prototypes and wireframes. Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Write automated tests to ensure error-free code and performance.',
+//   },
+//   {
+//     role: 'Junior React Native Developer',
+//     company: 'Avalanche Infotech Pvt Ltd',
+//     companylogo: '/img/icons/common/Avlanche.jpeg',
+//     date: 'Oct 2020 - Aug 2021',
+//     desc: 'Worked as React-Native Junior developer to create a Apps UI.',
+//   },
 ];
 
 export const projects = [
