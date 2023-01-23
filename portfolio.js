@@ -24,7 +24,7 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: 'What We do',
-  subTitle: 'CRAZY REACT-NATIVE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'CRAZY GROUP OF DEVELOPERS WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
       title: 'Android and IOS Application Development',
