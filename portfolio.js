@@ -220,7 +220,7 @@ export const projects = [
   {
     name: 'Synchrony App',
     desc: 'Plataforma online para coordinar tres grupos de personas: médico, biólogo y paciente en un proceso de reproducción asistida. El paciente estará conectado a través de una app desde su móvil que le avisará de cuando tiene que tomar la medicación. El médico y el biólogo tendrán acceso a la plataforma web donde introducirán los datos médicos de la pacientes. ',
-    // github: 'https://github.com/1hanzla100',
+    // github: 'https://github.com/1hanzla10000',
     Screenshots: '/img/icons/common/synchrony.png',
     link: 'https://play.google.com/store/apps/details?id=com.synchrony.android.app',
   },
