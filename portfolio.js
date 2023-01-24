@@ -30,13 +30,13 @@ export const skillsSection = {
       title: 'Android and IOS Application Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji('⚡ Build app and UI components from prototypes'),
-        emoji('⚡ Use Native APIs for tight integrations with both platforms – Android and IOS'),
-        emoji('⚡ Work with native modules as and when required'),
-        emoji('⚡ Building scalable, performant Apps using React Native'),
-        emoji('⚡ Building responsive Single-Page-Apps.'),
-        emoji('⚡ Building responsive Web Apps.'),
-        emoji('⚡ Building responsive static Apps using React Native'),
+        ('⚡ Build app and UI components from prototypes'),
+        ('⚡ Use Native APIs for tight integrations with both platforms – Android and IOS'),
+        ('⚡ Work with native modules as and when required'),
+        ('⚡ Building scalable, performant Apps using React Native'),
+        ('⚡ Building responsive Single-Page-Apps.'),
+        ('⚡ Building responsive Web Apps.'),
+        ('⚡ Building responsive static Apps using React Native'),
         // emoji('⚡ Building RESTful APIs in Django & Django REST Framework'),
       ],
       softwareSkills: [
